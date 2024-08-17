@@ -1,5 +1,6 @@
 ---
 title: Tại sao mình viết ... blog? 
+date: 2024-08-17
 ---
 
 Trong những tháng gần đây, mình thường rơi vào trạng thái burn out.

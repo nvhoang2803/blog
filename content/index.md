@@ -1,5 +1,6 @@
 ---
 title: Một nơi ngẩn ngơ ngẩm nghĩ của Hoàng
+date: 2024-08-15
 ---
 
 
